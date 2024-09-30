@@ -1,9 +1,9 @@
-import Signup from "./pages/Signup/Signup";
+import Home from "./pages/Home/Home";
 
 function App() {
   return (
     <main>
-      <Signup />
+      <Home />
     </main>
   );
 }
